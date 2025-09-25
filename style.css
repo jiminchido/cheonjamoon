@@ -183,8 +183,8 @@ p {
 
 .text_box {
     text-align: center;
-    margin-top: 44px; /* 상단 여백 추가 (기존 margin-top 없음) */
-    margin-bottom: 44px;
+    margin-top: 84px; /* 상단 여백 추가 (기존 margin-top 없음) */
+    margin-bottom: 84px;
     padding: 3px; /* 내부 여백 */
     background-color: #F5FFFA; /* 민트 크림 */
     border-radius: 8px;
